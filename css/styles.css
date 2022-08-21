@@ -24,7 +24,7 @@ body {
 .logo-header-footer .web {
     color: var(--accent-color);
     
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
