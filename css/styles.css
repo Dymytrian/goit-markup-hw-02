@@ -105,6 +105,7 @@ body {
 .hero-title {
     color: var(--primary-white-color);
     background-color: var(--primary-title-bacground-color);
+    
     font-weight: 900;
     font-size: 44px;
     text-transform: uppercase;
